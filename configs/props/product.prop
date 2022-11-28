@@ -1,2 +1,5 @@
 # Privapp permissions whitelisting
 ro.control_privapp_permissions=log
+
+# Allow setup wizard rotation
+ro.setupwizard.rotation_locked=false
